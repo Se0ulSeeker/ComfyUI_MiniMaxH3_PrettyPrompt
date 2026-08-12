@@ -2,7 +2,11 @@
 
 A simple ComfyUI node that makes MiniMax H3 video prompts easier to read and write.
 
+<img width="2335" height="904" alt="image" src="https://github.com/user-attachments/assets/272fcef3-d788-41a6-a69a-c55f49f394d1" />
+
+
 It turns supported parts of the prompt into clear, colored chips. This gives you a richer preview of the prompt, similar in spirit to the prompt editors found in closed video-model interfaces such as Seedance 2.
+
 
 ## What is this? What does it do?
 
