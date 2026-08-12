@@ -46,17 +46,17 @@ It's also prettier :D
 
 | Raw prompt text | What the editor shows |
 | --- | --- |
-| `<Picture 1>` or `Picture 1` | `Picture 1 Chip` |
-| `[Shot 1]` | `Shot 1 Chip` |
-| `(S1)` | `S1 Chip` |
-| `(S1,S2)` | `S1,S2 Chip` |
-| dwdw<d> | `Opening quotation mark Chip` |
-| `</d>` | `Closing quotation mark Chip` |
-| `[English]` | `English Chip` |
-| `<scenetrans>` | `Transition Chip` |
-| `<cutoff>` | `Cutoff Chip` |
-| `00:00.000` | `Timecode Chip` |
-| `N/A` | `N/A Chip` |
+| `<Picture 1>` or `Picture 1` | Picture 1 Chip |
+| `[Shot 1]` | Shot 1 Chip |
+| `(S1)` | S1 Chip |
+| `(S1,S2)` | S1,S2 Chip |
+| `<d>` | Opening quotation mark Chip |
+| `</d>` | Closing quotation mark Chip |
+| `[English]` | English Chip |
+| `<scenetrans>` | Transition Chip |
+| `<cutoff>` | Cutoff Chip |
+| `00:00.000` | Timecode Chip |
+| `N/A` | N/A Chip |
 
 The editor also gives a lighter treatment to these main H3 fields:
 
