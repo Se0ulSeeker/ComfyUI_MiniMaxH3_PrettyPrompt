@@ -11,6 +11,8 @@ It turns supported parts of the prompt into clear, colored chips. This gives you
 
 ## What is this? What does it do?
 
+https://github.com/user-attachments/assets/818f30c8-9c99-4a23-a212-304b0e2d9c52
+
 **MiniMax H3 Pretty Prompt** is a visual prompt editor for ComfyUI.
 
 It helps you see the structure of a MiniMax H3 prompt more clearly. Picture references, shots, speakers, dialogue, transitions, cutoffs, languages, timecodes, and other supported syntax are shown as colored 'chips'.
