@@ -50,8 +50,8 @@ It's also prettier :D
 | `[Shot 1]` | `Shot 1 Chip` |
 | `(S1)` | `S1 Chip` |
 | `(S1,S2)` | `S1,S2 Chip` |
-| `<d>` | Opening quotation mark |
-| `</d>` | Closing quotation mark |
+| <d> | `Opening quotation mark Chip` |
+| `</d>` | `Closing quotation mark Chip` |
 | `[English]` | `English Chip` |
 | `<scenetrans>` | `Transition Chip` |
 | `<cutoff>` | `Cutoff Chip` |
