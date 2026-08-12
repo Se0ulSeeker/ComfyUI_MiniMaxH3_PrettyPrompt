@@ -111,7 +111,7 @@ git clone https://github.com/YOUR_USERNAME/ComfyUI_MiniMaxH3_PrettyPrompt.git
 4. Use the buttons at the top to insert common prompt tokens.
 5. Connect the node's `prompt` output to any node that accepts the finished prompt string.
 
-New nodes start at 610 ? 350 px and include this basic prompt structure:
+New nodes start with the default recommended MiniMax H3 FL2VA prompt structure:
 
 ```text
 For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
