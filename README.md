@@ -17,7 +17,7 @@ It helps you see the structure of a MiniMax H3 prompt more clearly. Picture refe
 
 The node does not generate a video or change the meaning of your prompt. It simply makes the prompt easier to look at and easier to write.
 
-The output is always the original plain-text prompt. For example, the editor may show a chip named `?? Transition`, but the node still outputs the correct raw token:
+The output is always the original plain-text prompt. For example, the editor may show a chip named `🌀 Transition`, but the node still outputs the correct raw token:
 
 ```text
 <scenetrans>
@@ -46,17 +46,17 @@ It's also prettier :D
 
 | Raw prompt text | What the editor shows |
 | --- | --- |
-| `<Picture 1>` or `Picture 1` | `??? Picture 1` |
-| `[Shot 1]` | `?? Shot 1` |
-| `(S1)` | `??? S1` |
-| `(S1,S2)` | `??? S1,S2` |
+| `<Picture 1>` or `Picture 1` | `Picture 1 Chip` |
+| `[Shot 1]` | `Shot 1 Chip` |
+| `(S1)` | `S1 Chip` |
+| `(S1,S2)` | `S1,S2 Chip` |
 | `<d>` | Opening quotation mark |
 | `</d>` | Closing quotation mark |
-| `[English]` | `?? English` |
-| `<scenetrans>` | `?? Transition` |
-| `<cutoff>` | `?? Cutoff` |
-| `00:00.000` | Timecode chip |
-| `N/A` | N/A chip |
+| `[English]` | `English Chip` |
+| `<scenetrans>` | `Transition Chip` |
+| `<cutoff>` | `Cutoff Chip` |
+| `00:00.000` | `Timecode Chip` |
+| `N/A` | `N/A Chip` |
 
 The editor also gives a lighter treatment to these main H3 fields:
 
